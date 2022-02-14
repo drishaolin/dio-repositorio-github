@@ -1,0 +1,12 @@
+Comandos 
+windows | Linux
+-cd | cd
+-dir | ls
+-mkdir | mkdir
+-del/rmdir | rm -rf
+-cls | clear
+
+Configurações Git:
+git config --list
+git config --global user.email["email"]
+git config --global user.name[name]
